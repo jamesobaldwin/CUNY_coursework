@@ -1,0 +1,3 @@
+[submodule "CM/hw/hw3"]
+	path = CM/hw/hw3
+	url = https://github.com/CUNY-CompMethods-2024/cm-homework-set-3-jamesobaldwin.git
